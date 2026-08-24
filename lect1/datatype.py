@@ -1,0 +1,21 @@
+#integer
+print(5)
+#float
+print(4.5)
+#boolean
+print(True)
+#text/string
+print('Chaitanya')
+#tuple
+print((1,2,3,4))
+#dictionary
+print({'name':'chaitanya','weight':41,'age':21})
+#set
+print({20,30,40})
+#list
+print([1,2,3,4])
+#type function
+type(2)
+type(2.5)
+type([1,2,3,4])
+type('chaitanya')

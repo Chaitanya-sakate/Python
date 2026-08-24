@@ -1,0 +1,8 @@
+print('hello')
+print(2)        
+print(2.5)
+print('hello',2,4.5)
+print('chaitanya',2.5,4 ,sep="/")
+print('chaitanya',end="-")
+print('sakate')
+print(False)
