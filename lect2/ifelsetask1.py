@@ -1,4 +1,4 @@
-#min number find
+#min  and max number find
 fnum=int(input('enter a number'))
 snum=int(input('enter a number'))
 tnum=int(input('enter a number'))
