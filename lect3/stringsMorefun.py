@@ -1,0 +1,8 @@
+print('chaitu123'.isalnum())
+print('Chaitu@123'.isalnum())
+print('123c'.isalpha())
+print('vivek'.isalpha())
+print('777'.isdigit())
+print('123g'.isdigit())
+print('_hhh'.isidentifier())
+print('&hh'.isidentifier())
