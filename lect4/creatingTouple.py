@@ -1,0 +1,11 @@
+#creating touple
+t=()
+print(t)
+t=(1,)
+print(t)
+t=(1,2,3,4)
+print(t)
+t=(1,2,3,(4,5))
+print(t)
+t1=tuple('hello')
+print(t1)
